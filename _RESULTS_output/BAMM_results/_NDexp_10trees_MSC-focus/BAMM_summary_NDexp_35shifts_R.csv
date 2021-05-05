@@ -1,0 +1,45 @@
+id2,ID,CLADE,from_ord,numTaxa,avgCladeDiv,avgNoncladeDiv,avgFactor,avgIncDec,numTrees,from,to
+1,1a,Marsupialia,NA,362,0.158,0.140,1.1,upShift,7,Rhyncholestes_raphanurus_CAENOLESTIDAE_PAUCITUBERCULATA,Acrobates_pygmaeus_ACROBATIDAE_DIPROTODONTIA
+2,1b,Marsup (minus Caenolestidae),NA,355,0.167,0.137,1.2,upShift,2,Caluromysiops_irrupta_DIDELPHIDAE_DIDELPHIMORPHIA,Acrobates_pygmaeus_ACROBATIDAE_DIPROTODONTIA
+3,2a,Macropodidae-Potoridae,DIPROTODONTIA,78,0.320,0.139,2.3,upShift,3,Lagostrophus_fasciatus_MACROPODIDAE_DIPROTODONTIA,Aepyprymnus_rufescens_POTOROIDAE_DIPROTODONTIA
+4,2b,Macropodidae,DIPROTODONTIA,66,0.375,0.141,2.7,upShift,5,Onychogalea_lunata_MACROPODIDAE_DIPROTODONTIA,Onychogalea_fraenata_MACROPODIDAE_DIPROTODONTIA
+6,3a,Placentalia,NA,5544,0.143,0.136,1.1,upShift,5,Dasypus_septemcinctus_DASYPODIDAE_CINGULATA,Chrysochloris_stuhlmanni_CHRYSOCHLORIDAE_AFROSORICIDA
+7,3b,Boreoeutheria,NA,5419,0.144,0.088,1.6,upShift,5,Nesophontes_micrus_NESOPHONTIDAE_EULIPOTYPHLA,Cynocephalus_volans_CYNOCEPHALIDAE_DERMOPTERA
+5,4,Chrysochloridae,AFROSORICIDA,21,0.075,0.137,0.5,downShift,2,Amblysomus_hottentotus_CHRYSOCHLORIDAE_AFROSORICIDA,Eremitalpa_granti_CHRYSOCHLORIDAE_AFROSORICIDA
+8,5,Carnivora,CARNIVORA,298,0.178,0.142,1.3,upShift,5,Vulpes_lagopus_CANIDAE_CARNIVORA,Leptailurus_serval_FELIDAE_CARNIVORA
+9,6a,Pecora (Infraorder),CETARTIODACTYLA,215,0.229,0.127,1.8,upShift,3,Okapia_johnstoni_GIRAFFIDAE_CETARTIODACTYLA,Boselaphus_tragocamelus_BOVIDAE_CETARTIODACTYLA
+10,6b,Cervidae-Moschidae-Bovidae,CETARTIODACTYLA,212,0.250,0.141,1.8,upShift,5,Muntiacus_rooseveltorum_CERVIDAE_CETARTIODACTYLA,Tetracerus_quadricornis_BOVIDAE_CETARTIODACTYLA
+11,7,Cetacea,CETARTIODACTYLA,91,0.191,0.143,1.3,upShift,5,Indopacetus_pacificus_ZIPHIIDAE_CETARTIODACTYLA,Eubalaena_australis_BALAENIDAE_CETARTIODACTYLA
+12,8,Chiroptera,CHIROPTERA,1287,0.144,0.133,1.1,upShift,4,Rhinopoma_muscatellum_RHINOPOMATIDAE_CHIROPTERA,Saccolaimus_peli_EMBALLONURIDAE_CHIROPTERA
+13,9a,VespertilionidRel,CHIROPTERA,605,0.160,0.128,1.3,upShift,3,Nyctiellus_lepidus_NATALIDAE_CHIROPTERA,Submyotodon_latirostris_VESPERTILIONIDAE_CHIROPTERA
+14,9b,Mollosidae-Vespertilionidae,CHIROPTERA,593,0.147,0.141,1.0,upShift,6,Platymops_setiger_MOLOSSIDAE_CHIROPTERA,Cistugo_lesueuri_VESPERTILIONIDAE_CHIROPTERA
+15,10a,Phyllostomidae,CHIROPTERA,205,0.155,0.148,1.1,up-or-down,2,Macrotus_californicus_PHYLLOSTOMIDAE_CHIROPTERA,Phyllonycteris_poeyi_PHYLLOSTOMIDAE_CHIROPTERA
+16,10b,Phyllostomatidae sub1 (Stenodermatinae),CHIROPTERA,93,0.208,0.138,1.5,upShift,6,Uroderma_magnirostrum_PHYLLOSTOMIDAE_CHIROPTERA,Sturnira_bidens_PHYLLOSTOMIDAE_CHIROPTERA
+17,11a,Pteropodidae,CHIROPTERA,194,0.168,0.135,1.2,upShift,5,Dyacopterus_spadiceus_PTEROPODIDAE_CHIROPTERA,Acerodon_jubatus_PTEROPODIDAE_CHIROPTERA
+18,11b,Pteropodidae sub1 (Dobsonia-Rousettus),CHIROPTERA,161,0.177,0.147,1.2,upShift,2,Dobsonia_pannietensis_PTEROPODIDAE_CHIROPTERA,Rousettus_lanosus_PTEROPODIDAE_CHIROPTERA
+19,12,Pteropodidae sub2 (Pteropus),CHIROPTERA,69,0.431,0.138,3.2,upShift,10,Pteropus_capistratus_PTEROPODIDAE_CHIROPTERA,Acerodon_jubatus_PTEROPODIDAE_CHIROPTERA
+20,13,Rhinolophidae-Hipposideridae,CHIROPTERA,180,0.164,0.139,1.2,upShift,7,Rhinolophus_luctus_RHINOLOPHIDAE_CHIROPTERA,Hipposideros_gigas_HIPPOSIDERIDAE_CHIROPTERA
+21,14,Rhinolophidae,CHIROPTERA,87,0.225,0.139,1.6,upShift,6,Rhinolophus_luctus_RHINOLOPHIDAE_CHIROPTERA,Rhinolophus_landeri_RHINOLOPHIDAE_CHIROPTERA
+22,15,Soricidae,EULIPOTYPHLA,420,0.160,0.140,1.1,upShift,2,Anourosorex_schmidi_SORICIDAE_EULIPOTYPHLA,Solisorex_pearsoni_SORICIDAE_EULIPOTYPHLA
+23,16,Soricidae sub1 (Crocidurinae),EULIPOTYPHLA,213,0.259,0.136,1.9,upShift,9,Feroculus_feroculus_SORICIDAE_EULIPOTYPHLA,Crocidura_erica_SORICIDAE_EULIPOTYPHLA
+24,17,Soricidae sub2 (Sorex-Blarinella),EULIPOTYPHLA,128,0.183,0.143,1.3,upShift,4,Sorex_hoyi_SORICIDAE_EULIPOTYPHLA,Blarinella_griselda_SORICIDAE_EULIPOTYPHLA
+25,18,Primates,PRIMATES,313,0.227,0.136,1.7,upShift,10,Cacajao_calvus_PITHECIIDAE_PRIMATES,Allenopithecus_nigroviridis_CERCOPITHECIDAE_PRIMATES
+26,19,Strepsirrhini,PRIMATES,135,0.083,0.144,0.6,downShift,6,Nycticebus_coucang_LORISIDAE_PRIMATES,Allocebus_trichotis_CHEIROGALEIDAE_PRIMATES
+27,20,Lagomorpha,LAGOMORPHA,91,0.140,0.141,1.0,up-or-down,5,Poelagus_marjorita_LEPORIDAE_LAGOMORPHA,Ochotona_roylei_OCHOTONIDAE_LAGOMORPHA
+28,21,GuineaPigRel-SquirrelRel,RODENTIA,624,0.136,0.139,1.0,up-or-down,2,Glis_glis_GLIRIDAE_RODENTIA,Abrocoma_uspallata_ABROCOMIDAE_RODENTIA
+29,22,Hystricognathi (Infraorder),RODENTIA,298,0.153,0.142,1.1,upShift,3,Trichys_fasciculata_HYSTRICIDAE_RODENTIA,Abrocoma_famatina_ABROCOMIDAE_RODENTIA
+30,23,Ctenomyidae,RODENTIA,65,0.548,0.138,4.0,upShift,10,Ctenomys_tuconax_CTENOMYIDAE_RODENTIA,Ctenomys_lewisi_CTENOMYIDAE_RODENTIA
+31,24,Sciuridae sub1 (Sciurinae-Callosciurinae-Xerinae),RODENTIA,285,0.173,0.140,1.2,upShift,2,Funambulus_tristriatus_SCIURIDAE_RODENTIA,Biswamoyopterus_biswasi_SCIURIDAE_RODENTIA
+32,25,Geomyoidea,RODENTIA,107,0.169,0.140,1.2,upShift,5,Microdipodops_pallidus_HETEROMYIDAE_RODENTIA,Chaetodipus_baileyi_HETEROMYIDAE_RODENTIA
+33,26,Dipodidae,RODENTIA,51,0.083,0.139,0.6,downShift,3,Paradipus_ctenodactylus_DIPODIDAE_RODENTIA,Sicista_caucasica_DIPODIDAE_RODENTIA
+34,27,Murioidea,RODENTIA,1599,0.178,0.130,1.4,upShift,3,Typhlomys_cinereus_PLATACANTHOMYIDAE_RODENTIA,Calomyscus_urartensis_CALOMYSCIDAE_RODENTIA
+35,28,Cricetidae-Muridae,RODENTIA,1505,0.190,0.129,1.5,upShift,5,Prometheomys_schaposchnikowi_CRICETIDAE_RODENTIA,Diomys_crumpi_MURIDAE_RODENTIA
+36,29,Cricetidae,RODENTIA,726,0.195,0.128,1.5,upShift,6,Prometheomys_schaposchnikowi_CRICETIDAE_RODENTIA,Sigmodon_planifrons_CRICETIDAE_RODENTIA
+37,30,Muridae sub1 (Murinae),RODENTIA,632,0.189,0.130,1.5,upShift,5,Pogonomelomys_mayeri_MURIDAE_RODENTIA,Musseromys_inopinatus_MURIDAE_RODENTIA
+38,31a,Muridae sub2 (Murinae: Apomys-Melomys),RODENTIA,206,0.228,0.138,1.7,upShift,5,Chiropodomys_muroides_MURIDAE_RODENTIA,Apomys_gracilirostris_MURIDAE_RODENTIA
+39,31b,Muridae sub3 (Murinae: Anisomys-Melomys),RODENTIA,133,0.231,0.136,1.7,upShift,3,Anisomys_imitator_MURIDAE_RODENTIA,Abeomelomys_sevia_MURIDAE_RODENTIA
+40,32,Muridae sub4 (Murinae: Rattus-Srilankamys),RODENTIA,109,0.321,0.138,2.3,upShift,9,Berylmys_bowersi_MURIDAE_RODENTIA,Srilankamys_ohiensis_MURIDAE_RODENTIA
+41,33a,Muridae sub5 (Gerbillinae),RODENTIA,80,0.212,0.142,1.5,upShift,2,Taterillus_congicus_MURIDAE_RODENTIA,Ammodillus_imbellis_MURIDAE_RODENTIA
+42,33b,Muridae sub6 (Gerbillinae: Gerbillus),RODENTIA,50,0.243,0.136,1.8,upShift,3,Gerbillus_dunni_MURIDAE_RODENTIA,Microdillus_peeli_MURIDAE_RODENTIA
+43,34,Muridae sub7 (Deomyinae: Lophuromys),RODENTIA,23,0.219,0.143,1.6,up-or-down,2,Lophuromys_medicaudatus_MURIDAE_RODENTIA,Lophuromys_rahmi_MURIDAE_RODENTIA
+44,35,Muridae sub8 (Lophiomys),RODENTIA,1,0.085,0.142,0.6,downShift,3,Lophiomys_imhausi_MURIDAE_RODENTIA,Lophiomys_imhausi_MURIDAE_RODENTIA

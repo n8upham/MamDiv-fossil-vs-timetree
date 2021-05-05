@@ -1,0 +1,15 @@
+"mean" "low95" "up95"
+"treeNum" 5.5 1.225 9.775
+"ESS_nShifts" 827.0039 327.983 1497.6547
+"ESS_logLik" 585.4268 268.8851 1199.9817
+"postShifts_mean" 36.6574 27.9148 43.4019
+"postShifts_low95" 26.3 20.225 32.55
+"postShifts_up95" 49.8 38.225 60.875
+"likNumShifts" 35.2 26.675 41.775
+"freqLikShifts" 0.0709 0.0443 0.0935
+"allLam_mean" 0.2063 0.1884 0.2234
+"allLam_low95" 0.1951 0.1771 0.2128
+"allLam_up95" 0.2184 0.2026 0.2342
+"allMu_mean" 0.0676 0.0527 0.0881
+"allMu_low95" 0.0505 0.0354 0.0713
+"allMu_up95" 0.0855 0.0698 0.1044

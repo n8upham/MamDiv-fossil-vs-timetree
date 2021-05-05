@@ -1,0 +1,9 @@
+"rank" "probability" "cumulative" "Core_shifts"
+"1" 1 0.888 0.888 0
+"2" 2 0.086 0.974 1
+"rank" "probability" "cumulative" "Core_shifts"
+"1" 1 0.888 0.888 0
+"2" 2 0.086 0.974 1
+"rank" "probability" "cumulative" "Core_shifts"
+"1" 1 0.888 0.888 0
+"2" 2 0.086 0.974 1

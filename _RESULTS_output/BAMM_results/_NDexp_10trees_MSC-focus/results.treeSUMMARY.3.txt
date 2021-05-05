@@ -1,0 +1,2 @@
+"treeNum" "ESS_nShifts" "ESS_logLik" "postShifts_mean" "postShifts_low95" "postShifts_up95" "likNumShifts" "freqLikShifts" "allLam_mean" "allLam_low95" "allLam_up95" "allMu_mean" "allMu_low95" "allMu_up95"
+"1" 3 1275.69733657877 954.418706896183 43.4022613991195 33 57 42 0.0691414053257307 0.200879339332867 0.190750954025247 0.211863235092859 0.0568650931967625 0.0419522889888157 0.0724974506168122
