@@ -1,6 +1,6 @@
 # Code to plot the RTT output of 10 trees run in BAMM
 #########
-# For Fig 2 of new conception RSPB
+# For Fig 3 and 4a of new conception RSPB
 #######
 # NS Upham; last modification: 11 May 2020
 # ===================================================

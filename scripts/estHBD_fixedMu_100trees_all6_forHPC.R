@@ -1,6 +1,6 @@
 # Code to calculate pulled speciation rates
 #########
-# For Fig 3 of new conception Current Biology
+# For Fig 4 of new conception Current Biology
 #######
 # NS Upham; last modification: 7 Apr 2021
 # ===================================================
